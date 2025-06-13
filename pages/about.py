@@ -36,8 +36,5 @@ def show(df):
 
     ---
 
-    ### 🔗 My Streamlit App:
-    [Click here to visit my Streamlit app](https://capstone-project-raahul.streamlit.app/)
-                
     ### Training the Random Forest and Gradient Boosting models may take a bit longer, But their predictions are generally more accurate.
     """)
